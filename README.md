@@ -1,5 +1,7 @@
 # ConversorBSB
 Conversor de Moedas_ ChangelleAluraMCIO0ne
+![image](https://github.com/user-attachments/assets/64021392-9f00-4307-9a99-edc859d4aed5)
+
 Bem-Vindo(a) ao Conversor de Moedas BSB - Divirta-se. Em breve estará no vercel com Front End
 
 O Conversor de Moedas BSB é um projeto que tem como objetivo facilitar a conversão entre diferentes moedas utilizando taxas de câmbio atualizadas. Este tipo de aplicação é especialmente útil para viajantes, comerciantes e qualquer pessoa que precise realizar transações em diferentes moedas. O projeto pode incluir diversas funcionalidades que otimizam a experiência do usuário e garantem precisão nas conversões.
@@ -28,7 +30,7 @@ Conclusão
 
 O Conversor de Moedas BSB é uma ferramenta valiosa para qualquer pessoa que lida com múltiplas moedas, proporcionando uma maneira prática e eficiente de realizar conversões. Ao implementar uma interface intuitiva e funcionalidades úteis, o aplicativo pode se tornar um recurso indispensável para viajantes e profissionais que necessitam de informações precisas sobre taxas de câmbio.
 
-![image](https://github.com/user-attachments/assets/64021392-9f00-4307-9a99-edc859d4aed5)
+
 
 
 
